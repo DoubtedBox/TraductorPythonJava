@@ -1,7 +1,8 @@
 # TraductorPythonJava
 Un traductor que recibe un archivo .txt con codigo Python que lo convierte a java
 
-Para usarlo ejecuta el archivo "main.py" el cual pedira el nombre de un archivo txt con el codigo Java (sin la extencion).
+Para usarlo ejecuta el archivo "main.py" el cual pedira el nombre de un archivo txt con el codigo Java (sin la extencion).  
+El archivo txt tiene que estar dentro de la misma carpeta donde esta el codigo main.py.
 Al dar "enter" el programa creara un archivo "Main.java" con el codigo java generado.
 
 Autor: Can Cime Rodrigo Alexader  
