@@ -1,0 +1,14 @@
+def asignarNumero():
+	return 7
+
+b = asignarNumero()
+
+b = 3 + 4
+
+def multiplica(a,b):
+	resul = a * b - a
+	resul = resul + 5
+	return resul
+
+a = 5
+print(multiplica(a,b))
