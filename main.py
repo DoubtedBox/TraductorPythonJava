@@ -185,7 +185,7 @@ def loadFile(link):
     return content
 
 def main():
-    fileName = input("Ingrese el nombre del archivo (Se considerara que es .txt, por lo que no ponga la extencion)")
+    fileName = input("Ingrese el nombre del archivo (Se considerara que es .txt, por lo que no ponga la extencion):\n")
     link = fileName + ".txt"
     code = loadFile(link)
     #print(f'Codigo en python \n{code}')
